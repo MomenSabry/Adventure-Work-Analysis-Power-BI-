@@ -52,12 +52,6 @@ All measures are context-aware and follow best practices using `DIVIDE`, iterato
 - **Power BI**
 - **DAX**
 - **Power Query (M)**
-- **SQL** (source data)
-
----
-
-## 📷 Dashboard Preview
-> Screenshots of the main dashboards are available in the repository for quick review.
 
 ---
 
