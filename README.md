@@ -71,5 +71,5 @@ All measures are context-aware and follow best practices using `DIVIDE`, iterato
 ---
 
 ## 👤 Author
-**Momen Sabry**  
+**Moamen Sabry**  
 Business Intelligence / Data Analyst  
