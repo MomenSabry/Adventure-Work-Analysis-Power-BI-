@@ -1,7 +1,7 @@
 # Adventure Works – Business Intelligence Dashboard (Power BI)
 
 ## 📌 Overview
-This project is an end-to-end **Business Intelligence dashboard** built using **Power BI** on the Adventure Works dataset.  
+This project is a **Business Intelligence dashboard** built using **Power BI** on the Adventure Works dataset.  
 The dashboard provides insights into **sales performance, customer behavior, and profitability**, with a focus on clear data modeling and interactive analytics.
 
 ---
